@@ -1,4 +1,5 @@
 import SobreComponent from '../components/Sobre'
+import Projetos from '../components/Projetos'
 
 function Home() {
     return (
@@ -21,6 +22,7 @@ function Home() {
         </div>
         </div>
         <SobreComponent />
+        <Projetos />
       </div>
     );
   }

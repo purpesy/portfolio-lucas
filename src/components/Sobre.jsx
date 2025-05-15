@@ -2,7 +2,7 @@ import ImgPerfil from "../assets/img/foto-perfil.jpg";
 
 function SobreComponent() {
   return (
-    <div className="flex h-[500px] justify-center my-[50px]">
+    <div className="flex h-[600px] justify-center my-[50px]">
       <div className="container mx-auto px-4 flex justify-evenly">
         <div className="w-1/4 flex justify-center mt-3">
           <img
