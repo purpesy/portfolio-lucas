@@ -11,17 +11,17 @@ export default function RedesSociais() {
           </a>
         </li>
         <li>
-          <a href="https://linkedin.com/in/seu-usuario" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-3 text-gray-700 hover:text-blue-700 hover:scale-105 transition-transform" >
+          <a href="https://www.linkedin.com/in/lucas-gabriel-5301b2331/" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-3 text-gray-700 hover:text-blue-700 hover:scale-105 transition-transform" >
             <span className="text-2xl">LinkedIn</span>
           </a>
         </li>
         <li>
-          <a href="https://wa.me/seu-numero" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-3 text-gray-700 hover:text-green-600 hover:scale-105 transition-transform" >
+          <a href="https://wa.me/5511977134857?text=Ol%C3%A1%2C%20vim%20do%20portfolio!" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-3 text-gray-700 hover:text-green-600 hover:scale-105 transition-transform" >
             <span className="text-2xl">WhatsApp</span>
           </a>
         </li>
         <li>
-          <a href="https://wa.me/seu-numero" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-3 text-gray-700 hover:text-red-600 hover:scale-105 transition-transform" >
+          <a href="mailto:ltrabalho282@gmail.com?subject=Contato%20pelo%20Portfólio" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-3 text-gray-700 hover:text-red-600 hover:scale-105 transition-transform" >
             <span className="text-2xl">Email</span>
           </a>
         </li>
